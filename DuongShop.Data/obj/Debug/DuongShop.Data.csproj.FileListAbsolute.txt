@@ -1,0 +1,17 @@
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\DuongShop.Data.dll.config
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\DuongShop.Data.dll
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\DuongShop.Data.pdb
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\DuongShop.Common.dll
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\DuongShop.Model.dll
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\EntityFramework.dll
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\DuongShop.Common.pdb
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\DuongShop.Model.pdb
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\DuongShop.Model.dll.config
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\EntityFramework.xml
+E:\do_an_asp.net\DuongShop\DuongShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\do_an_asp.net\DuongShop\DuongShop.Data\obj\Debug\DuongShop.Data.csprojResolveAssemblyReference.cache
+E:\do_an_asp.net\DuongShop\DuongShop.Data\obj\Debug\DuongShop.Data.csproj.CoreCompileInputs.cache
+E:\do_an_asp.net\DuongShop\DuongShop.Data\obj\Debug\DuongShop.Data.csproj.CopyComplete
+E:\do_an_asp.net\DuongShop\DuongShop.Data\obj\Debug\DuongShop.Data.dll
+E:\do_an_asp.net\DuongShop\DuongShop.Data\obj\Debug\DuongShop.Data.pdb

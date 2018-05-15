@@ -1,0 +1,6 @@
+E:\do_an_asp.net\DuongShop\DuongShop.Common\bin\Debug\DuongShop.Common.dll
+E:\do_an_asp.net\DuongShop\DuongShop.Common\bin\Debug\DuongShop.Common.pdb
+E:\do_an_asp.net\DuongShop\DuongShop.Common\obj\Debug\DuongShop.Common.csprojResolveAssemblyReference.cache
+E:\do_an_asp.net\DuongShop\DuongShop.Common\obj\Debug\DuongShop.Common.csproj.CoreCompileInputs.cache
+E:\do_an_asp.net\DuongShop\DuongShop.Common\obj\Debug\DuongShop.Common.dll
+E:\do_an_asp.net\DuongShop\DuongShop.Common\obj\Debug\DuongShop.Common.pdb
